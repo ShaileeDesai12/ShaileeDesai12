@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/lHVF30Ni4Txzc1fpCX/giphy.gif" width="1000" height="350" />
+<img src="https://github.com/ShaileeDesai12/ShaileeDesai12/blob/main/Profile%20GIF.gif" width="1000" height="340" />
 
 <h1 align="center">Hello 👋, I'm Shailee R. Desai</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
