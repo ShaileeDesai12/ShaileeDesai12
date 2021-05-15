@@ -1,3 +1,5 @@
+
+![GIF](https://media.giphy.com/media/Xs76QPOluJuBRXrW7W/giphy.gif)
 <h1 align="center">Hello 👋, I'm Shailee R. Desai</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
