@@ -20,32 +20,32 @@
 ### About My Technical Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 
-``` { .python }
-shailee = {
-    "pronouns": ["She" , "her"],
-    "code": ["Python", "Javascript", "HTML5", "CSS3", "Java"],
-    "askMeAbout": ["analytics", "web dev", "tech", "app dev", "sketching"],
-    "technologies": {
-        "backEnd": {
-            "languages": ["Python", "Java"],
-            "frameworks": ["Django", "Flask"],
+``` js
+const shailee = {
+    pronouns: ["She" , "her"],
+    code: ["Python", "Javascript", "HTML5", "CSS3", "Java"],
+    askMeAbout: ["analytics", "web dev", "tech"],
+    technologies: {
+        backEnd: {
+            languages: ["Python", "Java"],
+            frameworks: ["Django", "Flask"],
         },
-        "frontEnd": {
-            "languages": ["HTML5", 
-                        {"CSS3" : "bootstrap"}, 
+        frontEnd: {
+            languages: ["HTML5", 
+                        {CSS3 : "bootstrap"}, 
                         "Javascript"],
-            "frameworks": ["jQuery"]
+            frameworks: ["jQuery"]
         },
-        "databases": ["MS SQL", "MySql", "PostgreSQL"],
+        databases: ["MS SQL", "MySql", "PostgreSQL"],
     },
-    "data_analysis_libraries" : {
-        "web_scraping" : "BeautifulSoup",
-        "data_processing" : ["Pandas", "Numpy", "Scipy"],
-        "data_visualization" : ["Matplotlib", "Seaborn"]
+    data_analysis_libraries : {
+        web_scraping : "BeautifulSoup",
+        data_processing : ["Pandas", "Numpy", "Scipy"],
+        data_visualization : ["Matplotlib", "Seaborn"]
     },
-    "tools": ["VS Code", 
+    tools: ["VS Code", 
             "Jupyter Notebook",
-            {"BI_Tools" : ["MS Excel", "Tableau"]}
+            {BI_Tools : ["MS Excel", "Tableau"]}
     ] 
 }
 ```
